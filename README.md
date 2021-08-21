@@ -32,6 +32,7 @@ FOFA_READ_FILE = 'fofa_query.txt'
 注：高级会员只能查询前10000条，普通会员只能前100条。
 
 例如你要查询如下内容：
+
 fofa_query.txt
 ```
 domain="qq.com"
