@@ -24,6 +24,10 @@ FOFA_OUTPUT_FILE = 'fofa_results.csv'
 FOFA_READ_FILE = 'fofa_query.txt'
 
 ```
+最终获取到的数据如下显示：
+![image](https://user-images.githubusercontent.com/38800368/130309468-a6fb6c8e-e7a2-4e91-b509-ffbe552071c9.png
+
+
 
 注：高级会员只能查询前10000条，普通会员只能前100条。
 
